@@ -165,3 +165,6 @@ dmypy.json
 
 # 인텔리제이
 .idea/
+
+# Visual Studio
+.vs/
